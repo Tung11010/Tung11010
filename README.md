@@ -51,22 +51,22 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="tung-blog" />
   </a>
   <a href="https://facebook.com/tung.nguyen.dang.383702" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="image/facebook.png" alt="tung-facebook" />
   </a>
   <a href="https://www.instagram.com/tungnguyen_dangg" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="image/instagram.png" alt="tung-youtube" />
+  </a>
+  <a href="https://t.me/tungnguyen2004" target="blank">
+    <img src="image/telegram.png" alt="tung-linkedin" />
+  </a>
+  <a href="https://www.tiktok.com/@ng_dangtung0?" target="blank">
+    <img src="image/tiktok.png" alt="tung-instagram" />
   </a>
   <a href="#" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tung-email" />
   </a>
 </div>
 
